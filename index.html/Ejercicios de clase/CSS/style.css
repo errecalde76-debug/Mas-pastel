@@ -1,0 +1,49 @@
+* {
+    color: rgb(43, 61, 226); /*color de texto*/
+    font-size:medium;
+}
+
+legend {
+    color: darkblue;
+}
+
+input {
+    color:crimson;
+    color:deeppink;
+}
+
+*{
+    margin: 15px;
+}
+
+h1 {
+    color:black;
+}
+
+.texto--resaltado {
+    background-color: lawngreen;
+
+}
+
+.texto--negrita {
+    font-weight: 800;
+}
+
+.header--pagina {
+    background-color:aqua;
+    font-size: 32px;
+}
+
+.footer-pagina {
+    background-color: 16476A;
+    font-size: 28px;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
